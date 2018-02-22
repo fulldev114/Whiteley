@@ -1,0 +1,13 @@
+PODS:
+  - FXBlurView (1.6.3)
+  - TAPageControl (0.1.0)
+
+DEPENDENCIES:
+  - FXBlurView (= 1.6.3)
+  - TAPageControl (= 0.1.0)
+
+SPEC CHECKSUMS:
+  FXBlurView: c6d23f3d35af2c6282296a2930f61c6e2c788d01
+  TAPageControl: 2ba14c5f797f57d2b2a54d9b251bdb99019c1245
+
+COCOAPODS: 0.35.0

@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "645ea227-557f-d749-8bde-4c705be2f1cd++4335",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "645ea227-557f-d749-8bde-4c705be2f1cd++1839" : {
+
+    },
+    "645ea227-557f-d749-8bde-4c705be2f1cd++4335" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "645ea227-557f-d749-8bde-4c705be2f1cd++1839" : 0,
+    "645ea227-557f-d749-8bde-4c705be2f1cd++4335" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "084D47D1-D0D0-4CF4-A502-5C0F148CD034",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "645ea227-557f-d749-8bde-4c705be2f1cd++1839" : "..",
+    "645ea227-557f-d749-8bde-4c705be2f1cd++4335" : "Bluetooth\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Whiteley",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iBeacon\/Whiteley\/iPhone\/Whiteley.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/dev35\/svn\/rocs",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "645ea227-557f-d749-8bde-4c705be2f1cd++1839"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/dev35\/svn\/rocs",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "645ea227-557f-d749-8bde-4c705be2f1cd++4335"
+    }
+  ]
+}

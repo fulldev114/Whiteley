@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[HomeViewController beaconMonitor:didDiscoverNearestBeacon:]:HomeViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__61-[HomeViewController beaconMonitor:didDiscoverNearestBeacon:]_block_invoke_5:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dcMonster[@&quot;notificaiton&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController isLeavingShoppingCentre]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "shoppingThread">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__37-[HeaderView onClickScrollImageView:]_block_invoke:HeaderView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dicCarousel[@&quot;id&quot;] ">
+            </PersistentString>
+            <PersistentString
+               value = "dic[@&quot;id&quot;] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FeedbackViewController onClickSubmitButton:]:FeedbackViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.presentingViewController">
+            </PersistentString>
+            <PersistentString
+               value = "self.navigationController.presentedViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

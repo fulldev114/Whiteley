@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CentreMapView showShopUnitTooltip:searchFlag:]:CentreMapView.m">
+      </ContextState>
+      <ContextState
+         contextName = "__45-[HomeViewController isLeavingShoppingCentre]_block_invoke:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "DCWEBAPI_CHECK_NOTIFICATION">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController beaconMonitor:didDiscoverNearestBeacon:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[nearestBeacon.proximityUUID UUIDString]">
+            </PersistentString>
+            <PersistentString
+               value = "[nearestBeacon.peripheral.identifier UUIDString]">
+            </PersistentString>
+            <PersistentString
+               value = "nearestBeacon.minor.intValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__40-[DCBaseViewController setImageURL:url:]_block_invoke:DCBaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageView.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JLEBeaconMonitor startBeaconMonitoringWith:regionID:determinedProximity:]:JLEBeaconMonitor.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MapViewController locationManager:didUpdateLocations:]:MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "userCoordinate.x">
+            </PersistentString>
+            <PersistentString
+               value = "userCoordinate.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OfferDetailViewController layoutCustomControls]:OfferDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dcOfferDetail[@&quot;image&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JLEBeaconMonitor beaconManager:didRangeBeacons:inRegion:]:JLEBeaconMonitor.m">
+      </ContextState>
+      <ContextState
+         contextName = "__30-[AppDelegate checkUpgradeApp]_block_invoke:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "app_version">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController locationManager:didUpdateLocations:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "userCoordinate.y &gt;= 40.14">
+            </PersistentString>
+            <PersistentString
+               value = "userCoordinate.x">
+            </PersistentString>
+            <PersistentString
+               value = "userGPSLocation.coordinate.longitude">
+            </PersistentString>
+            <PersistentString
+               value = "userCoordinate.y">
+            </PersistentString>
+            <PersistentString
+               value = "userCoordinate.y &lt;= 40.15">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapViewController goBack]:MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.scrollMapView.imageView ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
